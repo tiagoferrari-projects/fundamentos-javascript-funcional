@@ -1,8 +1,8 @@
 /* 
-*A programming language is said to have
-*First-class functions when functions in 
-*that language are treated like any other 
-*variable. 
+* A programming language is said to have
+* First-class functions when functions in 
+* that language are treated like any other 
+* variable. 
 */
 
 const add = function (a, b) {
